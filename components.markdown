@@ -19,7 +19,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies, enim v
 
 # Processor
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi sed erat sed magna imperdiet egestas quis sit amet purus. Pellentesque in massa sem. Maecenas a quam velit. Phasellus suscipit faucibus lectus vitae porttitor. Fusce adipiscing semper arcu, eu porta nisi suscipit id. Donec nec pulvinar purus. Duis sapien dolor, ullamcorper dictum egestas sit amet, euismod vel massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus sollicitudin risus sit amet enim consequat sed dignissim sem hendrerit. 
+The better your processor, the faster your computer will run. Now don't take this to mean that you should spend an extra $1,000 on a really good processor. Which speed you should get really depends on your major. For processors, there are only two brands to choose from: Intel and AMD.
+## Intel
+If you're doing Engineering you should probably opt for a higher end Intel Core-i5 or, if you want to spend the extra money, a Core-i7. Otherwise you should be able to get by with a lower end Core-i5, or even an i3.
 
 # RAM
 
