@@ -6,12 +6,15 @@ This is a laptop buying guide written specifically for those heading off to coll
 
 The main things you'll need to think about are:
 
-1. [Processor](#processor) - 
-1. [RAM](#RAM) - 
-1. Video Card - 
-1. Screen - 
-1. Hard Drive -
-1. [Battery](#battery) - 
+1. [Processor](#processor) - The better your processor, the faster things will run.
+1. [RAM](#ram) - The more RAM you have, the more things your computer can store in memory without having to access the (much slower) hard drive. The more ram, the smoother your computer will perform.
+1. [Video Card](#videocard) - If you plan on playing video games, you need one of these.
+1. [Screen](#screen) - Your biggest concern here should be that the bigger the screen, the bigger the laptop, and the harder it is to lug around a college campus.
+1. [Hard Drive](#hard_drive) - The bigger your hard drive, the more pirated copies of nickleback albums you can store.
+1. [Battery](#battery) - Better battery, longer lasting computer.
+1. [Wireless](#wireless) - Connects you to the intertubes.
+1. [Other Features](#other_features) - Other stuff you should be looking for, like HDMI ports and USB ports and webcams and more.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies, enim vitae cursus gravida, erat ipsum varius arcu, sed faucibus purus nunc ac turpis. Praesent sodales, dui nec dapibus tincidunt, justo dolor porttitor nisl, sed hendrerit leo nisi viverra eros. Ut dapibus volutpat eros, vitae dapibus nibh malesuada id. Nam luctus tincidunt velit nec ornare. Pellentesque neque metus, ultricies et imperdiet nec, mollis quis ipsum. In lobortis enim id libero feugiat nec placerat augue blandit. Etiam ac mauris arcu, non aliquet elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam sapien nunc, sollicitudin sed mattis non, lobortis quis justo. Cras posuere nisl in nibh eleifend id suscipit nunc bibendum. Integer erat augue, lobortis vitae ultricies quis, porta ut urna. Mauris consectetur mollis eros eu ullamcorper. Mauris non leo at orci sodales facilisis. Sed rhoncus, metus nec sollicitudin congue, est arcu feugiat nisi, quis vestibulum tortor sapien in lacus. Cras cursus tristique risus. In hac habitasse platea dictumst. 
 
