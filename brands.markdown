@@ -7,3 +7,5 @@ contributors: No one.
 Asus is good.
 
 Dell is bad.
+
+Alienware is overpriced.
