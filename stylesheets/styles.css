@@ -780,6 +780,11 @@ dt {
   font-size: 11px;
 }
 
+#navbar {
+  width: 100%;
+  text-align:center;
+}
+
 section {
   max-width: 650px;
   padding: 30px 0px 50px 0px;
