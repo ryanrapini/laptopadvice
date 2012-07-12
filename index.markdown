@@ -8,3 +8,5 @@ This is a laptop buying guide written specifically for those heading off to coll
 Buying a computer can be an intimidating process, especially if you have no idea what you're doing.
 
 Here's a flowchart:
+
+If it doesn't load press Alt + F4
