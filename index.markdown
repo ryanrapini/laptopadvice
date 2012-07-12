@@ -8,8 +8,3 @@ This is a laptop buying guide written specifically for those heading off to coll
 Buying a computer can be an intimidating process, especially if you have no idea what you're doing.
 
 Here's a flowchart:
-
-[Do you want a computer?]
-  |Yes            |No
-  V               V
- [Buy one]  [Don't buy one]
