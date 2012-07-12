@@ -25,27 +25,57 @@ If you're doing Engineering you should probably opt for a higher end Intel Core-
 
 # RAM
 
-Cras ornare tortor eu ante rutrum tempor. Vivamus neque tellus, lacinia ut ornare ut, imperdiet sed neque. Nulla iaculis ornare turpis a luctus. Aliquam ac tortor ac orci dictum blandit vel eget lacus. Integer quis ultrices libero. Donec sit amet turpis vel urna convallis interdum in vel tortor. Duis ac velit in lorem scelerisque suscipit eget id ante. Cras egestas risus semper elit congue convallis. Sed at risus libero, vel lobortis ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean ornare commodo justo, non sodales elit dictum vel. Duis sodales, felis sit amet condimentum pharetra, libero orci vulputate metus, sed adipiscing turpis nisi nec erat. Duis rutrum dolor id odio blandit sagittis. Cras pellentesque odio sodales dolor pulvinar hendrerit. 
+As far as RAM goes, you'll want to get at least 4 gigs, but probably no more than 8 gigs. Two gigs is a bit low. The amount of RAM you have in your computer can affect how your computer performs with many things open and you will see a significant performance drop if you run out of RAM.
 
 # Video Card
 
-Nulla vitae sapien eget quam ultricies suscipit id non dui. In convallis augue ac lacus tempor condimentum aliquet metus accumsan. Aliquam vitae nisl velit, ut accumsan dui. In et sem massa. Praesent consectetur vulputate semper. Vestibulum vestibulum rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras accumsan, ante ut aliquet bibendum, tellus metus posuere tortor, vitae adipiscing turpis justo nec arcu. Nam in lacus tortor, bibendum tincidunt arcu. 
+If you're planning to play video games on your laptop that were made in the last ten years, you're going to need a good video card. If you're not planning on playing video games, you can stop reading right here. Don't worry about getting a graphics card, Intel's Integrated Craphics cards will do.
+
+Otherwise, you'll want to shop around.
+
+TODO: Add information here.
 
 # Screen
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur volutpat ante sed tellus commodo ultricies. Nunc vitae vulputate nulla. Etiam luctus fermentum tempus. Phasellus nunc est, euismod sed vehicula et, adipiscing non lacus. Fusce venenatis vulputate nibh at auctor. Aenean ligula magna, luctus nec ornare in, pretium sed nulla. Nam nec justo purus. Cras blandit vulputate velit, et accumsan metus porttitor id. Aliquam venenatis adipiscing sapien, ut aliquam ante laoreet sit amet. Sed id massa risus. 
+Screen size is your main concern. The screen size (i.e. 15 inch, 17 inch, etc) is the diagonal measure of the screen just like with TV's. If you're just planning to browse the web and stuff, you'll probably be fine with whatever. If you have bad eyesight you might want to snag something bigger.
+
+If you're more concerned about screen quality, you can spend some time shopping around for higher resolution monitors - The higher the resolution, the better the quality of the screen and the more pixels it packs into the same size screen.
+
+You can also worry about refresh rates and stuff but that's not really worth your time on a laptop.
+
+If you're a power-user, you might consider buying a second monitor and plugging it into your laptop when you're in your dorm, effectively doubling the amount of real-estate and letting you watch twice as many videos of cats on the internet as you could before! An extra monitor should run you $100-$200. Just remember to check of either a VGA, DVI, or HDMI port on your laptop before you snag a monitor ([see below](#other_features)).
+
 
 # Hard Drive
 
-Pellentesque purus lorem, consequat et eleifend eu, convallis ac dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In hac habitasse platea dictumst. Donec sapien nisi, iaculis ut auctor auctor, scelerisque sit amet est. Mauris ut leo dui, nec molestie ligula. In in nisi magna, eget venenatis ipsum. Pellentesque vestibulum vulputate elit ac ultrices. Praesent non tortor sed risus tincidunt ullamcorper. Vivamus sollicitudin metus ut nisi convallis in rutrum eros ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Nullam dapibus neque velit, sed ultrices nunc. Nullam eu mi et leo rhoncus scelerisque elementum a dolor. Mauris est tellus, ultricies ac blandit nec, congue vel metus. Nulla semper aliquam mi nec tincidunt. Phasellus tempor dolor sit amet lectus lacinia nec sollicitudin arcu commodo. 
+This is pretty basic. The bigger the hard drive, the more you can store.
+
+It's hard to recommend a single size, because the amount of space you'll need varies wildly with how you use your computer. I will say this much: It's better to have more space than you use than it is to have no space left and a no where to save your schoolwork...
+
+Here's three basic scenarios. Pick the one that best fits you or just get the biggest hard drive you can find.
+
+* Student Sally isn't very good at computers. She uses hers mostly to type up reports and projects for her Communications major. She likes to browse pintrest, and she has no idea what a hard drive is, or how to check if it's full. She has a camera, and she likes to take pictures with it and upload them to her facebook, even though she sometimes forgets which end of the cable plugs into her laptop and which end plugs into her camera. 
 
 # Battery
 
-Donec id ullamcorper mauris. Sed adipiscing molestie libero eget rhoncus. Nulla orci velit, consectetur nec hendrerit sit amet, dictum at mi. Etiam ullamcorper aliquam justo, eu sagittis felis aliquet aliquam. Nunc et purus et enim sagittis rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed interdum euismod dui, nec blandit lectus tincidunt vel. Mauris vehicula tortor ut arcu aliquet quis auctor lorem vehicula. Integer pulvinar tincidunt massa, eu vestibulum quam tincidunt at. Aliquam semper mi ut nunc consequat lobortis. Vestibulum eu viverra nisl. Vestibulum eu nunc in erat imperdiet dictum sed in neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque elementum libero vitae nibh convallis a pretium mi interdum. Phasellus ac enim velit. Nulla ac lacus quis mauris eleifend mollis vitae nec quam. 
+Take whatever the manufacturer says the battery life is and divide it by 2. If that number is an acceptable number to you, take it. If you really need to live through your 5 hour lecture with a laptop, either sit near the back and find an outlet or disable your wifi and dim your screen.
 
 # Wireless
 
-Vestibulum lacus lorem, vestibulum sed iaculis at, pharetra ac urna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas ac nulla a sapien eleifend tempus nec eu ipsum. Ut placerat tempor augue, at feugiat urna pharetra at. Proin egestas, libero nec pretium auctor, arcu risus gravida ligula, quis aliquet quam purus id metus. Sed placerat sapien a elit varius non placerat erat laoreet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Curabitur sed diam libero, et hendrerit augue. Mauris aliquam, erat sed euismod aliquet, massa libero aliquet magna, ut ullamcorper sem augue a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse consectetur porttitor nisl, nec tincidunt eros vulputate sed. Duis molestie sagittis sodales. Nulla facilisi. Praesent pretium felis et lorem dictum faucibus. Integer hendrerit eleifend lorem eget dapibus. 
+A lot of people are confused by this, which is strange because it's really not too complicated. There are 3 basic wireless modes you need to worry about (well, two and a half). Wireless B, Wireless G, and Wireless N, in order of both speed and range. Wireless B is so old you don't even have to worry about it. Wireless G is in most older laptops and some older smartphones. Wireless G is reasonably fast, but still significantly slower than a wired connection, and the range is not that good. Any laptop sold in the last 5 years should have Wireless N, which is much faster and has much better range. You want wireless N.
+
+So how do the different formats affect you? Any laptop with a wireless N adapter can probably downgrade to wireless G if it needs to. Many older wireless routers (such as the one in your house right now) are probably still broadcasting on wireless G. This is fine, and will still work, but it won't be as fast as it could be. Worse still, if a laptop or device that only supports wireless G connects to a router with wireless N capabilities, it might drag everyone on the router down to wireless G speeds. For now, you should just look for a laptop with wireless N and not worry beyond that.
+
+If you're buying a router, you may want to set it to wireless N only mode. Older devices using wireless G won't be able to connect, but they won't be able to drag you down either.
+
+Speaking of which, here's a bonus section:
+
+## Wireless Routers
+
+First off, find out if your college lets you have your own wifi routers. Many colleges discourage it, as wireless routers can really jam up the network, saturate the airspace, interfere with existing infastructure, cause nightmares for the school IT department to troubleshoot, and more. If you hook up your Wireless Router wrong, you risk taking down everyone's internets while your little router's DHCP has a wrestling match with the college's master DHCP servers. Not good, and something that may get you a stern talking to if they track your router down.
+
+You're allowed to have a router? Or you feel like breaking the rules? Good, here's what to look for:
+TODO  
 
 # Other Features
 
